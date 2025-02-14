@@ -11,7 +11,7 @@ Passionate full-stack developer with 5 years of experience in web and mobile app
 - **AI/ML:** FastAPI Integration
 
 ## 📌 Current Focus
-- **Working on:** [GetNear](https://github.com/your-getnear-repo) 🚀
+- **Working on:** [GetNear](https://getnear.vercel.app/) 🚀
 - **Learning:** Advanced React & Flutter to enhance cross-platform app development
 
 ## 🌍 Let's Connect
