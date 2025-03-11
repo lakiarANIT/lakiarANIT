@@ -19,8 +19,3 @@ Passionate full-stack developer with 5 years of experience in web and mobile app
 - 📧 [kipngenolangat36@gmail.com](mailto:kipngenolangat36@gmail.com)
 - 🌐 [GitHub](https://github.com/lakiarANIT) | [Hashnode](https://stepwise.hashnode.dev) | [Twitter](https://www.x.com/langatarons)
 
-
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakiarANIT&show_icons=true&theme=radical">
-</p>
