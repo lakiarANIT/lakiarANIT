@@ -22,5 +22,5 @@ Passionate full-stack developer with 5 years of experience in web and mobile app
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aronsurf&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakiarANIT&show_icons=true&theme=radical">
 </p>
