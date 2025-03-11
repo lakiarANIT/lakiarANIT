@@ -20,5 +20,7 @@ Passionate full-stack developer with 5 years of experience in web and mobile app
 - 🌐 [GitHub](https://github.com/lakiarANIT) | [Hashnode](https://stepwise.hashnode.dev) | [Twitter](https://www.x.com/langatarons)
 
 
-## 📚 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakiarANIT&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%5Languages)
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aronsurf&show_icons=true&theme=radical">
+</p>
